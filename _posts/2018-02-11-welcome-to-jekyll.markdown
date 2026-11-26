@@ -1,33 +1,33 @@
 ---
 layout: post
-title:  "Welcome to Jekyll Paper!"
-date:   2018-02-11
-last_modified_at: 2019-10-16
-categories: [Jekyll Paper]
+title:  "My Coding Log!"
+date:   2026-11-26
+last_modified_at: 2026-11-26
+categories: [Logs]
 ---
+嗯，是的
 
-Jekyll Paper is a Jekyll theme, it is designed to helping you to create your own blog by the easiest way. Now, you can learn how to use this blog by this post.
+这是我的第一个「代码开发博客」
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and reload the page to see your changes. You can edit this post on Github or your local repository copy.
+# 这是干什么的
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.md` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+有关这个，这个是我的一个开发日志，会不定时的将最近的开发成果写在这里
 
-Jekyll also offers powerful support for code snippets:
+这个分类呢以后会有关于最近的一些问题、最近的更新简要概述、想要加入的东西，嗯对
 
-```c
-#include <stdio.h>
+# 现在，我有什么
 
-int main(int argc, char *argv[]) {
-  printf("Hello World!\n");
-  return 0;
-}
+我现在正在着手维护2个仓库：MarkdownNT和Moss
 
-// => prints 'Hello World!' to STDOUT.
-```
+先说用途：
 
-Check out the [Jekyll Paper docs][jekyll-paper-docs] or [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. If you have questions or suggestions, you can create an issue to asking them on [Jekyll Paper Issues][jekyll-paper-issues] or [Jekyll Talk][jekyll-talk].
+MarkdownNT：一个新的语言，比MD要好
 
-[jekyll-paper-docs]: https://github.com/ghosind/Jekyll-Paper/wiki
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
-[jekyll-talk]: https://talk.jekyllrb.com/
+Moss：一个编程语言，有很多好van的特性
+
+# 现在到哪里了
+
+Moss最近是刚发布了两个版本:26.0.0和26.0.1，已经公开，目前正在做26.0.2的后期工作，预计本周周末发布，然后逐步开始了
+26.0.3的编写，具体敬请期待
+
+MarkdownNT现在说是正在开发，其实就是暂时搁置了，原因：没有思路，正在寻找还有什么是我能对其他格式改正的（其实还有copilot额度用完了（小声））
