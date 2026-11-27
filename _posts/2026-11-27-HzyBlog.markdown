@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "11.27 HzyBlog"
+date:   2026-11-27
+last_modified_at: 2026-11-27
+categories: [Logs]
+---
+
 # 2026/11/27日博客——Hezyyy
 
 哦新的一天到来了！
